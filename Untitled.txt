@@ -1,0 +1,32 @@
+Reflections
+How did viewing a diff between two versions help you spot the bug?
+
+To spot the difference between two files, you can use the command ‘diff -u <old file> <new file>’ on terminal (for Macs); 
+
+
+Reflect: Using History for Efficiency
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+
+Reflect: Manual Commits
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+
+Reflect: Multi-File Commits
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+
+Reflect: Using Git to View History
+How can you use the commands git log and git diff to view the history of files?
+
+Use git log to see history
+Then use git diff old_id new_id to see the difference
+
+
+Reflect: Confidence from Version Control
+How might using version control make you more confident to make changes that could break something?
+
+
+Reflect: How Do You Want to Use Git?
+Now that you have your workspace set up, what do you want to try using Git for?
+
