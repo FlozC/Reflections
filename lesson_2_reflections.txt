@@ -2,3 +2,5 @@ Reflect: Initializing a Repository
 What happens when you initialize a repository? Why do you need to do it?
 You get a .git folder, that tracks all the metadata of version control. When you first init it, it won’t contain anything, because it doesn’t commit automatically for you, you have to make the commit yourself. That way, you can make notes on the commit and choose which file you want to commit. 
 
+Reflect: Staging Area
+How is the staging area different from the working directory and the repository? What value do you think it offers?
