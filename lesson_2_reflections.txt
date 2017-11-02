@@ -4,3 +4,10 @@ You get a .git folder, that tracks all the metadata of version control. When you
 
 Reflect: Staging Area
 How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Reflect: Commit Size
+How can you use the staging area to make sure you have one commit per logical change?
+
+
+Reflect: When to Use Branches
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
